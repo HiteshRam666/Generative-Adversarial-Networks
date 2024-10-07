@@ -2,9 +2,9 @@
 
 Welcome to the **Generative Adversarial Networks (GANs)** project! This repository showcases the implementation of GANs from scratch, exploring how two neural networks (generator and discriminator) compete with each other to produce realistic data from noise. 🚀
 
-![gan](https://github.com/user-attachments/asset
+![gan](https://github.com/user-attachments/assets/91693e30-4434-46d9-a290-93ce6e49dc73)
 ![gan200](https://github.com/user-attachments/assets/7a34cb63-4200-43dd-a358-e0ff087f02cf)
-s/91693e30-4434-46d9-a290-93ce6e49dc73)
+
 
 
 
